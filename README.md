@@ -2,7 +2,7 @@
 
 ##
 
-### About me:
+### sobre mim:
 
 - 👩‍💻 18yo;
 - 👩‍🎓 Tecnico em Redes de Vomputadores pelo Instituto Federal Goiano-Campus Ipameri;
@@ -12,7 +12,7 @@
 
 
 
-### See more about my journey on IT
+### Veja mais sobre minha jornada em TI
 <div>
   <a href="https://github.com/LDRRosa>
 <div>  
@@ -21,7 +21,9 @@
       <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LDRRosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
                                                                                                                                                      
 </div>
-                                                                                                                                                     
+
+                                                                                                                                                                    
+### Linguagens que estou familiarizado:
 <div style="display: inline_block; width: fit-content"><br>
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
