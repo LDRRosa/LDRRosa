@@ -14,11 +14,11 @@
 
 ### See more about my journey on IT
 <div>
-  <a href="https://github.com/MurilloAssis>
+  <a href="https://github.com/LDRRosa>
 <div>  
-  <a href="https://github.com/MurilloAssis">
-      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloAssis&layout=compact&langs_count=7&theme=tokyonight"/> 
-      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MurilloAssis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/LDRRosa">
+      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDRRosa&layout=compact&langs_count=7&theme=tokyonight"/> 
+      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LDRRosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
                                                                                                                                                      
 </div>
                                                                                                                                                      
