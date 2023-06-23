@@ -5,7 +5,7 @@
 ### sobre mim:
 
 - 👩‍💻 18yo;
-- 👩‍🎓 Tecnico em Redes de Vomputadores pelo Instituto Federal Goiano-Campus Ipameri;
+- 👩‍🎓 Tecnico em Redes de Computadores pelo Instituto Federal Goiano-Campus Ipameri;
 - 👩‍🎓 Cursando Bacharelado em sistemas de informação pelo Instituto Federal Goiano-Campus Ipameri;
 - 🎤 Sou uma pessoa comunicativa e aprendo rápido;
 
