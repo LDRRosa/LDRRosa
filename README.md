@@ -40,3 +40,4 @@
 
 ### 🐍 Meus commits em movimento
 ![Snake animation](https://github.com/LDRRosa/LDRRosa/blob/output/github-contribution-grid-snake.svg)
+
