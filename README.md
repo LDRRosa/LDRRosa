@@ -24,8 +24,7 @@
 <div>  
 
    <a href="https://github.com/LDRRosa">
-
-      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDRRosa&layout=compact&langs_count=7&theme=tokyonight"/> 
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDRRosa&layout=compact&langs_count=7&theme=tokyonight"/> 
 
    </a>
 
