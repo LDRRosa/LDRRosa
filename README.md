@@ -22,11 +22,14 @@
 
 ### Veja mais sobre minha jornada em TI
 <div>  
-   <a href="https://github.com/LDRRosa">
-      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDRRosa&layout=compact&langs_count=7&theme=tokyonight&include_all_commits=true"/>
-   </a>
-</div>
 
+   <a href="https://github.com/LDRRosa">
+
+      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDRRosa&layout=compact&langs_count=7&theme=tokyonight"/> 
+
+   </a>
+
+</div>
 ---
 
 ### tecnologias com que estou familiarizado:
