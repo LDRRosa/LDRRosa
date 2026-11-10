@@ -4,7 +4,7 @@
 
 ### sobre mim:
 
-- 👩‍💻 20yo;
+- 👩‍💻 21yo;
 - 👩‍🎓 Técnico em Redes de Computadores pelo Instituto Federal Goiano - Campus Ipameri;
 - 👩‍🎓 Cursando Bacharelado em Sistemas de Informação pelo Instituto Federal Goiano - Campus Urutaí;
 - 🎤 Sou uma pessoa comunicativa e aprendo rápido;
@@ -35,4 +35,11 @@
 
 ### 🐍 Meus commits em movimento
 ![Snake animation](dist/github-contribution-grid-snake.svg)
+
+---
+
+### 📊 Linguagens mais usadas
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+</div>
 
